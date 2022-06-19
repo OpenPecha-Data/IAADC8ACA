@@ -1,0 +1,38 @@
+id: IAADC8ACA
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T14:36:30.063385'
+last_modified: '2022-06-19T14:36:30.063400'
+parser: null
+source_metadata:
+  title: Hagiography of Brog mi lo tsā ba; Lamdre Lobshe, vol. ka, title no. 2, from
+    the chronological biographies of the Lamdre lineage masters
+  author: rje btsun grags pa rgyal mtshan/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-08-16); converted from external file, unrevised, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/33
+  bases:
+    02ba:
+      title: Hagiography of Brog mi lo tsā ba; Lamdre Lobshe, vol. ka, title no. 2,
+        from the chronological biographies of the Lamdre lineage masters
+      order: 1
+      base_file: 02ba.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
